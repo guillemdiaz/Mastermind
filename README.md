@@ -1,7 +1,7 @@
 # Mastermind Game
 
 This is a recreation of the Mastermind game. You can play it 
-[here](https://guillemdiaz.github.io/mastermind-game/).
+[here](https://guillemdiaz.github.io/Mastermind/).
 
 ## Overview
 
